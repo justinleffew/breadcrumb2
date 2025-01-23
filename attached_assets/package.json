@@ -1,14 +1,14 @@
 {
-  "name": "magic-patterns-vite-template",
-  "version": "0.0.1",
-  "private": true,
-  "type": "module",
+  "name": "breadcrumb",
+  "version": "1.0.0",
   "scripts": {
+    "start": "vite",
     "dev": "vite",
-    "build": "tsc && vite build",
-    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
-    "preview": "vite preview"
+    "build": "vite build"
   },
+  "dependencies": {},
+  "devDependencies": {}
+},
   "dependencies": {
     "canvas-confetti": "^1.9.3",
     "framer-motion": "latest",
