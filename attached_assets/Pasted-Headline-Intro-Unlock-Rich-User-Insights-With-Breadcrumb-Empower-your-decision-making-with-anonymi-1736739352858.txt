@@ -1,0 +1,43 @@
+Headline & Intro
+Unlock Rich User Insights With Breadcrumb
+Empower your decision-making with anonymized, real-time behavioral data you can trust. Our datasets provide valuable perspectives on consumer behavior, location trends, and more—all aggregated and privacy-friendly.
+
+Data Categories & Pricing
+Financial Data
+
+Price: $0.05 per data access
+Volume: 1,240 recent accesses
+Overview: Transaction patterns and spending habits
+Why It’s Useful: Pinpoint market segments, forecast demand, and optimize pricing strategies.
+Location Data
+
+Price: $0.03 per data access
+Volume: 890 recent accesses
+Overview: Aggregated movement patterns and location preferences
+Why It’s Useful: Refine geotargeted marketing, discover emerging hotspots, and plan location-based expansions.
+Shopping Behavior
+
+Price: $0.04 per data access
+Volume: 1,560 recent accesses
+Overview: Consumer purchase patterns and product preferences
+Why It’s Useful: Sharpen inventory planning, launch targeted promotions, and identify new cross-sell opportunities.
+Entertainment Choices
+
+Price: $0.02 per data access
+Volume: 720 recent accesses
+Overview: Media consumption and entertainment preferences
+Why It’s Useful: Align ad placements with audience interests, optimize creative content, and spot rising trends early.
+How to Purchase
+Request Access – Each dataset includes a straightforward “Request Access” button that directs you to our sign-up flow, where you can select specific metrics, timeframe, or region.
+Flexible Batch Sizes – Request exactly the amount of data you need. Minimum batch size is 1,000 users per insight to preserve privacy and ensure statistically relevant results.
+Subscription Options – Regularly updated feeds are available for businesses that need continuous data streams.
+Data Usage Guidelines
+Fully Anonymized & Aggregated – We never share personally identifiable information; datasets are carefully aggregated for privacy compliance.
+Daily Rate Limits – Rate limits may apply to prevent overuse, helping maintain high-quality data.
+Automatic 24-Hour Refresh – Your insights always reflect the latest shifts in user behavior.
+Why Breadcrumb?
+Real Insights, Zero Guesswork – Stop relying on gut instinct. Our anonymized data offers precise windows into user habits.
+Scalable & Customizable – Whether you’re a startup or an enterprise, our flexible API and batch options fit your needs.
+Ethical Data Sourcing – We respect user privacy, so you can build trust with customers and regulators alike.
+Get Started Today
+Take your data-driven strategies to the next level. Request Access to the datasets that matter most, or talk to a Breadcrumb Data Specialist for a custom solution.
